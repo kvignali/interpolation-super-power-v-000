@@ -77,11 +77,11 @@ puts "Name: #{stefani_name}, Age: #{stefani_age}, Occupation:
 
 Three variables per person is going to get really, *really* messy once we want to print 5, 10, or 100 business cards. We can clean this up quite a bit by considering that name, age, and occupation really just comprise a list of attributes about a person. We have a really great data structure for representing lists in Ruby...an array!
 
-With that in mind, let's represent our data as an array:
+With that in mind, let's represent our data as an array:Firefighter"]
 
 ```ruby
 bob     = ["Bob", 46, "Juggler"]
-stefani = ["Stefani", 49, "Firefighter"]
+stefani = ["Stefani", 49, "
 ```
 
 If we wanted to print out Bob's name, we'd do it like this:
